@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: 程序媛的日常
+subtitle: Time waits for no one.
+description: 技术wiki心路历程，好好学习，天天向上 
+author: arrie wang
+language: 2-lettter ISO-639-1 code
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://arriewang.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
